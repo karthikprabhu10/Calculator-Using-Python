@@ -73,3 +73,36 @@ This project is a calculator built with Python (Flask), HTML, CSS, and JavaScrip
 
 ## Project Structure
 
+calculator/
+├── static/
+│ ├── css/
+│ │ └── styles.css
+│ └── js/
+│ └── scripts.js
+├── templates/
+│ └── index.html
+├── app.py
+└── README.md
+
+
+- `static/css/styles.css`: CSS file for styling the calculator.
+- `static/js/scripts.js`: JavaScript file for handling calculator logic.
+- `templates/index.html`: HTML file for the calculator interface.
+- `app.py`: Flask application file to serve the calculator.
+- `README.md`: This file.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+Please make sure your code follows the project's coding style and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
