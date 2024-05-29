@@ -73,16 +73,16 @@ This project is a calculator built with Python (Flask), HTML, CSS, and JavaScrip
 
 ## Project Structure
 
-calculator/
-├── static/
-│ ├── css/
-│ │ └── styles.css
-│ └── js/
-│ └── scripts.js
-├── templates/
-│ └── index.html
-├── app.py
-└── README.md
+calculator/<br />
+├── static/<br />
+│ ├── css/<br />
+│ │ └── styles.css<br />
+│ └── js/<br />
+│ └── scripts.js<br />
+├── templates/<br />
+│ └── index.html<br />
+├── app.py<br />
+└── README.md<br />
 
 
 - `static/css/styles.css`: CSS file for styling the calculator.
