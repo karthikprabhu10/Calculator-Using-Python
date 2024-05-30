@@ -2,6 +2,9 @@
 
 This project is a calculator built with Python (Flask), HTML, CSS, and JavaScript. The calculator features dynamically updating results, a clear function, a delete last character function, and typical arithmetic operations.
 
+![image](https://github.com/karthikprabhu10/Calculator-Using-Python/assets/108575187/e6b9453f-15ed-4e3d-bdac-2081cd7874c4)
+
+
 ## Table of Contents
 
 - [Features](#features)
